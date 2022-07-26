@@ -6,6 +6,10 @@ import pandas as pd
 st.title("coba memakai streamlit framework")
 
 
+
+#  
+
+
 # create dataset
 
 df = pd.DataFrame(
